@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @hardymathieu , manager @hardy.digital
-- 👀 I’m interested in building products
-- 🌱 I’m currently learning how to setup an IPFS node, create ERC721 tokens for my CV, to code with the Replit 100 days challenge, using Github efficiently, and some other things too.
+- 👋 Hi, I’m @hardymathieu , freelance @ hardy.digital & avroy.tech
+- 👀 I’m interested in building products and bringing them to people
+- 🌱 I’m trying to use code to automate things in my life. Ever since the advent of LLMs, I've gotten much better at it :) 
 - 💞️ I’m looking to collaborate on building products. Crypto products that are tackling the biggest problems today, ideally.
 - 📫 How to reach me: http://socials.hardy.digital/ 
 
-More at http://hardy.digital or http://cv.mhardy.me
+More at http://hardy.digital & http://avroy.tech
